@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/string-reverser/static/css/main.05231690.css",
+    "main.js": "/string-reverser/static/js/main.63e419bc.js",
+    "static/js/787.e9069ac0.chunk.js": "/string-reverser/static/js/787.e9069ac0.chunk.js",
+    "index.html": "/string-reverser/index.html",
+    "main.05231690.css.map": "/string-reverser/static/css/main.05231690.css.map",
+    "main.63e419bc.js.map": "/string-reverser/static/js/main.63e419bc.js.map",
+    "787.e9069ac0.chunk.js.map": "/string-reverser/static/js/787.e9069ac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05231690.css",
+    "static/js/main.63e419bc.js"
+  ]
+}
